@@ -1,0 +1,19 @@
+img {
+    display: block;
+    margin: auto;
+  }
+h1{
+    
+    height: 50px;
+    padding: 10px
+}
+
+table{
+    margin: 0 auto;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: brown;
+    padding: 20px;
+}
